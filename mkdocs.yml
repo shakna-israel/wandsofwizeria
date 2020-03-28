@@ -1,0 +1,46 @@
+site_name: Wands of Wizeria
+theme:
+  name: 'material'
+  font: false
+  logo: false
+extra_css:
+  - 'stylesheets/extra.css'
+nav:
+  - Wands of Wizeria: index.md
+  - Episode One | Sin vs Flower: 00010.md
+  - Episode Two | Kim vs Golem: 00020.md
+  - Episode Three | Chloe vs Politics: 00030.md
+  - Episode Four | Dan vs Womanhood: 00040.md
+  - Episode Five | Sin vs Hera: 00050.md
+  - Episode Six | Kim vs Leyline: 00060.md
+  - Episode Seven | Chloe vs Populous: 00070.md
+  - Episode Eight | Dan vs Inspiration: 00080.md
+  - Episode Nine | Sin vs the Tourney: 00090.md
+  - Episode Ten | Kim vs the Tourney: 00100.md
+  - Episode Eleven | Chloe vs the Tourney: 00110.md
+  - Episode Twelve | Dan vs the Tourney: 00120.md
+  - Episode Thirteen | Sin vs the Tourney II: 00130.md
+  - Episode Fourteen | Kim vs the Tourney II: 00140.md
+  - Episode Fifteen | Chloe vs the Tourney II: 00150.md
+  - Episode Sixteen | Dan vs the Tourney II: 00160.md
+  - Episode Seventeen | Sin vs the Tourney III: 00170.md
+  - Episode Eighteen | Kim vs the Tourney III: 00180.md
+  - Episode Nineteen | Chloe vs the Tourney III: 00190.md
+  - Episode Twenty | Dan vs Mood: 00200.md
+  - Episode Twenty One | Sin vs Boredom: 00210.md
+  - Episode Twenty Two | Kim vs Solomon: 00220.md
+  - Episode Twenty Three | Chloe vs Vampire: 00230.md
+  - Episode Twenty Four | Dan vs Flour: 00240.md
+  - Episode Twenty Five | Sin vs Caerlorne: 00250.md
+  - Episode Twenty Six | Kim vs Solomon II: 00260.md
+  - Episode Twenty Seven | Chloe vs Hunger: 00270.md
+  - Episode Twenty Eight | Dan vs Dan: 00280.md
+  - Episode Twenty Nine | Sin vs Morgana: 00290.md
+  - Episode Thirty | Kim vs Boredom: 00300.md
+  - Episode Thirty One | Chloe vs Diana: 00310.md
+  - Episode Thirty Two | Dan vs Lich: 00320.md
+  - Episode Thirty Three | Sin vs Dan: 00330.md
+  - Episode Thirty Four | Kim vs Solomon III: 00340.md
+  - Episode Thirty Five | Chloe vs Zuzu: 00350.md
+  - Episode Thirty Six | Dan vs Sin: 00360.md
+  - Episode Thirty Seven | Sin vs Boredom II: 00370.md
